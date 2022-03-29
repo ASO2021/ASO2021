@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASO2021
-- 👀 I’m interested in this porject
+- 👀 I’m interested in Technology
 - 🌱 I’m currently learning C#, Java, Selenieum Framework and other Languages
 - 💞️ I’m looking to collaborate in the company and with the team
 - 📫 how to contact me write me aliciasuarezortiz@gmail.com
