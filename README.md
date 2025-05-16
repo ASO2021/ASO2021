@@ -7,7 +7,7 @@
 
 🧪 I’m building expertise in automation testing, focusing on robust test strategies, API testing, and end-to-end UI testing
 
-💻 Interested in tools and technologies like Pytest, Postman, Faker, and CI/CD pipelines
+💻 Interested in tools and technologies Postman, and CI/CD pipelines
 
 🤝 Open to collaborating on QA-focused projects and contributing to high-quality software delivery
 
